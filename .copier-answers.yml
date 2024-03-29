@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v2.0.1
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: kaylee.de_soto@cfa.harvard.edu
+author_name: Kaylee de Soto
+custom_install: false
+package_name: rubin_periodogram_sims
+project_license: MIT
+project_name: rubin_periodogram_sims
+project_organization: my-organization
